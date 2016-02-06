@@ -46,7 +46,12 @@ task clone << {
     Git.cloneRepository().setURI(remotePath).setDirectory(new File(localPath)).call()
 }
 
-task checkout << { String task ->
+task checkout << {
+    def console = System.console()
+    if (console) {
+        username = console.readLine('')
+        printf(username)
+    }
     //if ("$task" != null) {
     //    printf("$task")
     //}else
