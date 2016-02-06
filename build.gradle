@@ -25,18 +25,18 @@ import org.eclipse.jgit.api.*
 import org.eclipse.jgit.internal.storage.file.FileRepository
 import org.eclipse.jgit.transport.*
 
-def localPath = "$localPath"
-def remotePath = "$remotePath"
+def localPath = "$pruebaGradleLocalPath"
+def remotePath = "$pruebaGradleRemotePath"
 def localRepo = new FileRepository(localPath + "/.git")
 def git = new Git(localRepo)
 
-task commit << {
+task commit {
     git.add().addFilepattern(".").call();
-    git.commit().setMessage("Added myfile").call();
+    git.commit().setMessage("Virginia").call();
 }
 
 task Cpush << {
-    def credentials = new UsernamePasswordCredentialsProvider("$user", "$password")
+    def credentials = new UsernamePasswordCredentialsProvider("$pruebaGradleUser", "$pruebaGradlePassword")
     def push = git.push();
     push.setCredentialsProvider(credentials);
     push.call();
