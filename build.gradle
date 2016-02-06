@@ -35,7 +35,7 @@ task commit {
     git.commit().setMessage("Virginia").call();
 }
 
-task Cpush << {
+task push << {
     def credentials = new UsernamePasswordCredentialsProvider("$pruebaGradleUser", "$pruebaGradlePassword")
     def push = git.push();
     push.setCredentialsProvider(credentials);
@@ -44,4 +44,9 @@ task Cpush << {
 
 task clone << {
     Git.cloneRepository().setURI(remotePath).setDirectory(new File(localPath)).call()
+}
+
+task checkout << { String task ->
+    printf("$task")
+    //git.checkout().setName("$task").call();
 }
