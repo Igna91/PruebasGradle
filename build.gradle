@@ -46,7 +46,7 @@ task clone << {
     Git.cloneRepository().setURI(remotePath).setDirectory(new File(localPath)).call()
 }
 
-task checkout << { String task ->
+task checkout << { Task task ->
     //if ("$task" != "") {
         //printf("$task")
     //}else
