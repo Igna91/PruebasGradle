@@ -46,10 +46,10 @@ task clone << {
     Git.cloneRepository().setURI(remotePath).setDirectory(new File(localPath)).call()
 }
 
-task checkout << { Task task ->
-    if ("$task" != null) {
-        printf("$task")
-    }else
+task checkout << { String task ->
+    //if ("$task" != null) {
+    //    printf("$task")
+    //}else
         printf("puta")
     //git.checkout().setName("$task").call();
 }
