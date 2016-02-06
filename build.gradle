@@ -49,12 +49,12 @@ task clone << {
 task checkout << {
     def console = System.console()
     if (console) {
-        def username = console.readLine('holll')
-      //  printf(username)
+        def username = console.readLine('\nTu rama: ')
+
     }
-    //if ("$task" != null) {
-    //    printf("$task")
-    //}else
+    if (username != null) {
+        printf(username)
+    }else
         printf("puta")
     //git.checkout().setName("$task").call();
 }
