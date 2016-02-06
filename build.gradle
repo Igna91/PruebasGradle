@@ -47,7 +47,7 @@ task clone << {
 }
 
 task checkout << { String task ->
-    if ("$task" != null) {
+    if ("$task" != "") {
         printf("$task")
     }else
         printf("puta")
