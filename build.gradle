@@ -47,9 +47,9 @@ task clone << {
 }
 
 task checkout << { Task task ->
-    //if ("$task" != "") {
-        //printf("$task")
-    //}else
+    if ("$task" != null) {
+        printf("$task")
+    }else
         printf("puta")
     //git.checkout().setName("$task").call();
 }
