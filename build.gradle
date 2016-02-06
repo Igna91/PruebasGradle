@@ -48,7 +48,7 @@ task clone << {
 
 task checkout << { String task ->
     if ("$task" != "") {
-        printf("$task")
+        //printf("$task")
     }else
         printf("puta")
     //git.checkout().setName("$task").call();
