@@ -48,11 +48,12 @@ task clone << {
 
 task checkout << {
     def console = System.console()
+    def username
     if (console) {
-        def username = console.readLine('\nTu rama: ')
+        username = console.readLine('\nTu rama: ')
 
     }
-    if (username != null) {
+    if (!username.isEmpty) {
         printf(username)
     }else
         printf("puta")
