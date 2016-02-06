@@ -51,11 +51,11 @@ task checkout << {
     def username
     if (console) {
         username = console.readLine('\nTu rama: ')
-
+        if (username != "") {
+            printf(username)
+        }else
+            printf("puta")
+        //git.checkout().setName("$task").call();
     }
-    if (username != "") {
-        printf(username)
-    }else
-        printf("puta")
-    //git.checkout().setName("$task").call();
+
 }
