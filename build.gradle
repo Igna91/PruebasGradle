@@ -53,7 +53,7 @@ task checkout << {
         username = console.readLine('\nTu rama: ')
 
     }
-    if (username != null) {
+    if (username != "") {
         printf(username)
     }else
         printf("puta")
