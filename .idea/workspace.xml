@@ -2,6 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e1b2519-7048-428b-97b3-28cb6a3efbfa" name="Default" comment="">
+      <change type="DELETED" beforePath="C:\Users\virgi\Google Drive\Pruebas gradle\PruebasGradle\.idea\libraries\appcompat_v7_23_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\virgi\Google Drive\Pruebas gradle\PruebasGradle\.idea\libraries\cucumber_android_1_2_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\virgi\Google Drive\Pruebas gradle\PruebasGradle\.idea\libraries\cucumber_core_1_2_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\virgi\Google Drive\Pruebas gradle\PruebasGradle\.idea\libraries\cucumber_html_0_2_3_sources.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\virgi\Google Drive\Pruebas gradle\PruebasGradle\.idea\libraries\cucumber_java_1_2_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\virgi\Google Drive\Pruebas gradle\PruebasGradle\.idea\libraries\cucumber_junit_1_2_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\virgi\Google Drive\Pruebas gradle\PruebasGradle\.idea\libraries\cucumber_jvm_deps_1_0_5.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\virgi\Google Drive\Pruebas gradle\PruebasGradle\.idea\libraries\design_23_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\virgi\Google Drive\Pruebas gradle\PruebasGradle\.idea\libraries\gherkin_2_10_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\virgi\Google Drive\Pruebas gradle\PruebasGradle\.idea\libraries\hamcrest_core_1_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\virgi\Google Drive\Pruebas gradle\PruebasGradle\.idea\libraries\junit_4_12.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\virgi\Google Drive\Pruebas gradle\PruebasGradle\.idea\libraries\recyclerview_v7_23_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\virgi\Google Drive\Pruebas gradle\PruebasGradle\.idea\libraries\support_annotations_23_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\virgi\Google Drive\Pruebas gradle\PruebasGradle\.idea\libraries\support_v4_23_1_1.xml" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\virgi\Google Drive\Pruebas gradle\PruebasGradle\assets\features\Nuevo WinRAR archive.rar" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\virgi\Google Drive\Pruebas gradle\PruebasGradle\assets\features\features\miprimer.feature" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\virgi\Google Drive\Pruebas gradle\PruebasGradle\assets\features\features\step_definitions\Nuevo documento de texto.txt" afterPath="" />
@@ -1398,7 +1412,7 @@
     <option name="modificationStamps">
       <map>
         <entry key="$PROJECT_DIR$" value="4365913427010" />
-        <entry key="C:\Users\virgi\Google Drive\Pruebas gradle\PruebasGradle" value="4365915973803" />
+        <entry key="C:\Users\virgi\Google Drive\Pruebas gradle\PruebasGradle" value="4365916228397" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -1630,11 +1644,16 @@
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/external/lombok/lombok-ast/0.2.3/lombok-ast-0.2.3.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/intellij/annotations/12.0/annotations-12.0-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/intellij/annotations/12.0/annotations-12.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/info.cukes/cucumber-java/1.1.5/fcdcef3da423e644f125e3c5145f2be59bc53e76/cucumber-java-1.1.5.jar" />
                             <option value="$USER_HOME$/AppData/Local/Android/sdk/extras/android/m2repository/com/android/support/appcompat-v7/23.1.1/appcompat-v7-23.1.1.aar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/info.cukes/cucumber-core/1.2.4/72790b1da44d8d3d2764c6aef29865ee228bbeb1/cucumber-core-1.2.4.jar" />
                             <option value="$USER_HOME$/AppData/Local/Android/sdk/extras/android/m2repository/com/android/support/design/23.1.1/design-23.1.1.aar" />
                             <option value="$USER_HOME$/AppData/Local/Android/sdk/extras/android/m2repository/com/android/support/support-v4/23.1.1/support-v4-23.1.1.aar" />
                             <option value="$USER_HOME$/AppData/Local/Android/sdk/extras/android/m2repository/com/android/support/recyclerview-v7/23.1.1/recyclerview-v7-23.1.1.aar" />
                             <option value="$USER_HOME$/AppData/Local/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/info.cukes/cucumber-html/0.2.3/624a0c986088e32910336dd77aee5191c04a8201/cucumber-html-0.2.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/info.cukes/cucumber-jvm-deps/1.0.5/69ed0efe4b81f05da3c0bdc7281cbdc43f5ceb26/cucumber-jvm-deps-1.0.5.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/info.cukes/gherkin/2.12.2/17138631fa20fd0e44a13e50d6b7be59cee1a94/gherkin-2.12.2.jar" />
                             <option value="$MODULE_DIR$/libs/cucumber-android-1.2.4.jar" />
                             <option value="$MODULE_DIR$/libs/cucumber-core-1.2.4.jar" />
                             <option value="$MODULE_DIR$/libs/cucumber-html-0.2.3-sources.jar" />
@@ -2384,7 +2403,7 @@
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32935154" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34582624" sideWeight="0.4969743" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34582624" sideWeight="0.4969743" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24962178" sideWeight="0.51" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
