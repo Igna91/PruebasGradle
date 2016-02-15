@@ -1,0 +1,15 @@
+Given(/^there are (\d+) coffees left in the machine$/) do |arg1|
+  System.out.printf("caca1")# Write code here that turns the phrase above into concrete actions
+end
+
+Given(/^I have deposited (\d+)\$$/) do |arg1|
+  System.out.printf("caca2")# Write code here that turns the phrase above into concrete actions
+end
+
+When(/^I press the coffee button$/) do
+  System.out.printf("caca3")# Write code here that turns the phrase above into concrete actions
+end
+
+Then(/^I should be served a coffee$/) do
+  System.out.printf("caca4")# Write code here that turns the phrase above into concrete actions
+end
