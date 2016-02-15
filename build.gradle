@@ -45,7 +45,7 @@ task push << {
 task clone << {
     Git.cloneRepository().setURI(remotePath).setDirectory(new File(localPath)).call()
 }
-
+//CUCUMBER
 
 apply plugin: 'java'
 apply plugin: 'groovy'
