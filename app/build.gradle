@@ -21,6 +21,12 @@ android {
     }
 }
 
+task executeFeatures(type: JavaExec, dependsOn: testClasses) {
+    main = "cucumber.cli.Main"
+    classpath += files(sourceSets.test.runtimeClasspath, file(webAppDir.path + '/WEB-INF/classes'))
+    args += [ '-f', 'html:build/reports/cucumber', '-g', 'com.ps.grupo2.comunio.features.step_definitions', 'src']
+}
+
 dependencies {
     compile fileTree(include: ['*.jar'], dir: 'libs')
     //testCompile 'junit:junit:4.12'
