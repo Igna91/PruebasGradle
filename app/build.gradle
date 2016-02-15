@@ -26,7 +26,7 @@ dependencies {
     testCompile 'junit:junit:4.12'
     compile 'info.cukes:cucumber-java:1.1.5'
     compile 'com.android.support:appcompat-v7:23.1.1'
-    compile 'info.cukes:cucumber-junit:1.2.4'
+    compile 'info.cukes:cucumber-junit:1.1.7'
     compile 'com.android.support:design:23.1.1'
     androidTestCompile 'junit:junit:4.12'
 }
