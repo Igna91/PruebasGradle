@@ -91,8 +91,14 @@
     <orderEntry type="library" exported="" name="recyclerview-v7-23.1.1" level="project" />
     <orderEntry type="library" exported="" name="cucumber-android-1.2.4" level="project" />
     <orderEntry type="library" exported="" name="support-v4-23.1.1" level="project" />
+    <orderEntry type="library" exported="" name="cucumber-java-1.2.4" level="project" />
+    <orderEntry type="library" exported="" name="cucumber-html-0.2.3-sources" level="project" />
+    <orderEntry type="library" exported="" name="cucumber-jvm-deps-1.0.5" level="project" />
+    <orderEntry type="library" exported="" name="cucumber-core-1.2.4" level="project" />
+    <orderEntry type="library" exported="" name="gherkin-2.10.0" level="project" />
     <orderEntry type="library" exported="" name="support-annotations-23.1.1" level="project" />
     <orderEntry type="library" exported="" name="appcompat-v7-23.1.1" level="project" />
+    <orderEntry type="library" exported="" name="cucumber-junit-1.2.4" level="project" />
     <orderEntry type="library" exported="" name="design-23.1.1" level="project" />
   </component>
 </module>

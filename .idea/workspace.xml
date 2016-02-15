@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e1b2519-7048-428b-97b3-28cb6a3efbfa" name="Default" comment="">
+      <change type="DELETED" beforePath="C:\Users\virgi\Google Drive\Pruebas gradle\PruebasGradle\.idea\libraries\appcompat_v7_23_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\virgi\Google Drive\Pruebas gradle\PruebasGradle\.idea\libraries\cucumber_android_1_2_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\virgi\Google Drive\Pruebas gradle\PruebasGradle\.idea\libraries\design_23_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\virgi\Google Drive\Pruebas gradle\PruebasGradle\.idea\libraries\recyclerview_v7_23_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\virgi\Google Drive\Pruebas gradle\PruebasGradle\.idea\libraries\support_annotations_23_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\virgi\Google Drive\Pruebas gradle\PruebasGradle\.idea\libraries\support_v4_23_1_1.xml" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\virgi\Google Drive\Pruebas gradle\PruebasGradle\assets\features\Nuevo WinRAR archive.rar" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
@@ -1324,7 +1330,7 @@
     <option name="modificationStamps">
       <map>
         <entry key="$PROJECT_DIR$" value="4364356375001" />
-        <entry key="C:\Users\virgi\Google Drive\Pruebas gradle\PruebasGradle" value="4365869227922" />
+        <entry key="C:\Users\virgi\Google Drive\Pruebas gradle\PruebasGradle" value="4365869245001" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -1562,6 +1568,12 @@
                             <option value="$USER_HOME$/AppData/Local/Android/sdk/extras/android/m2repository/com/android/support/recyclerview-v7/23.1.1/recyclerview-v7-23.1.1.aar" />
                             <option value="$USER_HOME$/AppData/Local/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar" />
                             <option value="$MODULE_DIR$/libs/cucumber-android-1.2.4.jar" />
+                            <option value="$MODULE_DIR$/libs/cucumber-core-1.2.4.jar" />
+                            <option value="$MODULE_DIR$/libs/cucumber-html-0.2.3-sources.jar" />
+                            <option value="$MODULE_DIR$/libs/cucumber-java-1.2.4.jar" />
+                            <option value="$MODULE_DIR$/libs/cucumber-junit-1.2.4.jar" />
+                            <option value="$MODULE_DIR$/libs/cucumber-jvm-deps-1.0.5.jar" />
+                            <option value="$MODULE_DIR$/libs/gherkin-2.10.0.jar" />
                           </list>
                         </option>
                         <option name="path" value="$PROJECT_DIR$/app" />
