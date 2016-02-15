@@ -72,7 +72,7 @@ task cucumber() {
         javaexec {
             main = "cucumber.api.cli.Main"
             classpath = configurations.cucumberRuntime
-            args = ['--plugin', 'pretty', '--glue', 'com.ps.grupo2.comunio.features.step_definitions', 'src/androidTest/java/com/ps/grupo2/comunio/features']
+            args = ['--plugin', 'pretty', '--glue', 'com.ps.grupo2.comunio.features.step_definitions', 'src']
 
         }
     }
