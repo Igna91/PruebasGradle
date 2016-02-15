@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e1b2519-7048-428b-97b3-28cb6a3efbfa" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\virgi\Google Drive\Pruebas gradle\PruebasGradle\.idea\libraries\cucumber_android_1_2_4.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\virgi\Google Drive\Pruebas gradle\PruebasGradle\.idea\libraries\cucumber_core_1_2_4.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\virgi\Google Drive\Pruebas gradle\PruebasGradle\.idea\libraries\cucumber_html_0_2_3_sources.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\virgi\Google Drive\Pruebas gradle\PruebasGradle\.idea\libraries\cucumber_java_1_2_4.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\virgi\Google Drive\Pruebas gradle\PruebasGradle\.idea\libraries\cucumber_junit_1_2_4.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\virgi\Google Drive\Pruebas gradle\PruebasGradle\.idea\libraries\cucumber_jvm_deps_1_0_5.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\virgi\Google Drive\Pruebas gradle\PruebasGradle\.idea\libraries\gherkin_2_10_0.xml" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\virgi\Google Drive\Pruebas gradle\PruebasGradle\assets\features\Nuevo WinRAR archive.rar" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="PruebasGradle.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -81,7 +76,7 @@
         <entry file="file://$PROJECT_DIR$/app/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.7669173">
-              <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+              <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -2272,7 +2267,7 @@
     <entry file="file://$PROJECT_DIR$/app/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7669173">
-          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
           <folding />
         </state>
       </provider>
