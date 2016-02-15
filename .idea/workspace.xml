@@ -114,8 +114,8 @@
       <file leaf-file-name="CucumberTestCase.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/test/java/com/ps/grupo2/comunio/CucumberTestCase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.775076">
-              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.71629214">
+              <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -1734,8 +1734,8 @@
         <option value="$PROJECT_DIR$/app/src/androidTest/java/com/ps/grupo2/comunio/CucumberTestCase.java" />
         <option value="$PROJECT_DIR$/features/step_definitions/Nuevo documento de texto.java" />
         <option value="$PROJECT_DIR$/app/src/androidTest/java/com/ps/grupo2/comunio/features/step_definitions/Cosa.java" />
-        <option value="$PROJECT_DIR$/app/src/test/java/com/ps/grupo2/comunio/CucumberTestCase.java" />
         <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/test/java/com/ps/grupo2/comunio/CucumberTestCase.java" />
       </list>
     </option>
   </component>
@@ -2599,8 +2599,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/test/java/com/ps/grupo2/comunio/CucumberTestCase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.775076">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.71629214">
+          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
