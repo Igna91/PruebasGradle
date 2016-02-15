@@ -45,7 +45,7 @@ task push << {
 task clone << {
     Git.cloneRepository().setURI(remotePath).setDirectory(new File(localPath)).call()
 }
-
+/*
 task checkout << {
     def console = System.console()
     def username
@@ -58,4 +58,4 @@ task checkout << {
         //git.checkout().setName("$task").call();
     }
 
-}
+}*/
