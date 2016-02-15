@@ -8,7 +8,7 @@ import cucumber.api.junit.Cucumber;
 @CucumberOptions(
         //this code will only look into "features/" folder for features
         features={"classpath:features/"},
-        glue = { "com.mycompany.cucumber.stepdefinitions", "com.mycompany.cucumber.hooks" },
+        glue = { "", "com.mycompany.cucumber.hooks" },
         format = { "com.mycompany.cucumber.formatter.RuntimeInfoCatcher", "json:target/cucumber.json" },
         tags = { "@working" }
 )
