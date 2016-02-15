@@ -32,7 +32,7 @@ def git = new Git(localRepo)
 
 task commit {
     git.add().addFilepattern(".").call();
-    git.commit().setMessage("Virginia").call();
+    git.commit().setMessage("librerias para cucumber").call();
 }
 
 task push << {
