@@ -23,7 +23,7 @@ android {
 
 dependencies {
     compile fileTree(include: ['*.jar'], dir: 'libs')
-    testCompile 'junit:junit:4.12'
+    //testCompile 'junit:junit:4.12'
     compile 'info.cukes:cucumber-java:1.1.5'
     compile 'com.android.support:appcompat-v7:23.1.1'
     compile 'info.cukes:cucumber-junit:1.2.4'
